@@ -2,7 +2,7 @@
 
 # Hi, I'm Jacob Hale
 
-I'm a **creative technologist** blending **UI/UX design, Adobe Creative Suite mastery, and AI innovation** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[Jacob Hale Studio](https://jacobhalestudio.net)**, **[be-loved.app](http://be-loved.app/about)**, **[ammocat3000](https://ammocat3000.com)**, and **[roundabout.run](https://roundabout.run)**.
+I'm a **creative technologist** blending **UI/UX design, Digital Creative mastery, and AI innovation** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[Jacob Hale Studio](https://jacobhalestudio.net)**, **[be-loved.app](http://be-loved.app/about)**, **[ammocat3000](https://ammocat3000.com)**, and **[roundabout.run](https://roundabout.run)**.
 
 ## About Me
 - **Creative Technologist**: Specializing in UI/UX design and Adobe Creative Suite.
@@ -24,12 +24,12 @@ I'm a **creative technologist** blending **UI/UX design, Adobe Creative Suite ma
 
 ## Background
 - **Vine Beginnings**: Discovered Vine on day one in high school, grew a following with stop-motion animations, and learned the power of organic communities.
-- **Fooji Growth-Hacking**: Joined as the third member of Fooji, a startup originally about ordering food via Twitter emojis. My viral One Direction giveaway shaped its shift to a multi-million dollar ad model.
+- **Fooji Growth-Hacking**: Joined as the third member of Fooji, a startup originally about ordering food via Twitter emojis. My viral One Direction giveaway shaped its shift to a multi-million dollar ad model. 
 - **Indiana University**: Studied advertising, where Michael Uslan (producer of *The Dark Knight*) taught me Hollywood’s billion-dollar adaptations for China—no ghosts allowed.
 
 ## Current Focus
 - Building **be-loved.app** to modernize non-emergency medical transportation.
-- Aspiring to join the Network School as a core team member, attending on July 1st, 2025.
+- Aspiring to build at the Network School, starting July 1st, 2025.
 
 ## Connect with Me
 - [GitHub](https://github.com/sailorjacob)
